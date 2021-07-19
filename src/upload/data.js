@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Shreya Bhat",
+    role: "Open Source Enthusiast | Designer",
+    image: "https://avatars.githubusercontent.com/u/61507305?v=4",
+    skills: ['Java', 'Figma', 'API'],
+    link: [
+      "https://github.com",
+      "https://linkedin.com/in/shryaa",
+      "https://twitter.com",
+    ],
+  },
 ];
 
 export default data;
